@@ -1,5 +1,5 @@
 # 💫 About Me:
-Current Computer Science student studying Artificial Intelligence Oxford Brookes University.
+Current Computer Science student studying Artificial Intelligence @Oxford Brookes University.
 
 
 ## 🌐 Socials:
