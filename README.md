@@ -1,27 +1,104 @@
-# 💫 About Me:
-Current Computer Science student studying Artificial Intelligence @Oxford Brookes University.
+<div align="center">
 
+# Harvey Humphrey
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harvey-humphrey-145688264/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harvey.humphrey@outlook.com) 
+### BSc Computer Science (Artificial Intelligence)  
+Oxford Brookes University · Year 2
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vey-git&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vey-git&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vey-git&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[Email](mailto:harvey.humphrey@outlook.com) · [LinkedIn](https://linkedin.com/in/harveyhumphrey) · [GitHub](https://github.com/vey-git)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vey-git&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vey-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vey-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎓 Academic Focus
+
+Second-year Computer Science student specialising in **Artificial Intelligence**, with a strong emphasis on:
+
+- **Machine learning & AI**: classical ML, supervised learning, and AI search
+- **Algorithms & theory**: data structures, algorithms, and foundations of computation
+- **Systems & software**: C/C++, Python, and applied software engineering
+
+Current goal: build a **first-class academic record** and a **research-ready AI portfolio** suitable for postgraduate study at the University of Oxford.
+
+---
+
+## 🧠 AI & Algorithms Projects
+
+### 🗺️ AI Pathfinding on Real-World Road Networks
+Year 2 AI coursework implementing and benchmarking multiple search algorithms on OpenStreetMap road networks.
+
+- Implemented **A\***, **BFS**, **DFS**, **Bidirectional MM**, and **logic-constrained A\*** for route planning
+- Used **OSMnx** and **NetworkX** to model graphs with thousands of nodes and edges
+- Analysed performance across execution time, nodes explored, path quality, and memory usage
+- Implemented bidirectional MM based on peer-reviewed research to significantly reduce search space
+
+> Focus: search algorithms, heuristics, complexity analysis, and real-world optimisation.
+
+**Repo:** `[https://github.com/vey-git/AI-Pathfinding-Route-Optimisation]`
+
+---
+
+### 👁️ Computer Vision & Supervised Learning
+Independent project exploring computer vision and classical ML.
+
+- Built an image classification pipeline using **SVMs** on extracted features
+- Used **pandas** for data cleaning and preprocessing
+- Applied **scikit-learn** for model training, evaluation, and comparison
+- Documented experiments and results with a reproducible workflow
+
+> Focus: supervised learning, evaluation, and practical ML engineering.
+
+**Repo:** `[https://github.com/vey-git/eye_to_morse_code]`
+
+---
+
+## 🔬 Skills & Tools
+
+### Languages
+- **Python** (primary): data science, ML, scripting
+- **C / C++**: low-level programming and performance-aware code
+- **Java, SQL**: additional coursework and projects
+
+### AI / Data
+- **scikit-learn**, **pandas**, **NumPy**
+- Classical ML (SVMs, tree-based methods, search algorithms)
+- Foundations in **AI search**, **heuristics**, and **logic-based reasoning**
+
+### Software & Engineering
+- Git & GitHub (branching, pull requests, code review)
+- PyCharm, VS Code
+- Clean, documented code with an emphasis on readability and reproducibility
+
+---
+
+## 📚 Current Modules & Interests
+
+**Current modules:**
+- Advanced AI  
+- Data Structures and Algorithms  
+- Foundations of Computation  
+- Enterprise Engineering  
+
+**Academic interests:**
+- Machine learning and representation learning
+- Search and optimisation in complex environments
+- Theoretical foundations of computation and algorithms
+- Applications of AI in navigation, robotics, and autonomous systems
+
+---
+
+## 🎯 Goals
+
+Short term:
+- Maintain **first-class performance** across AI, algorithms, and theory-heavy modules
+- Expand AI portfolio with well-documented, reproducible projects
+- Gain research experience through independent work or internships
+
+Long term:
+- Pursue a **taught or research Master’s in Computer Science / AI at Oxford**
+- Contribute to research at the intersection of **machine learning, algorithms, and real-world decision-making**
+
+---
+
+If you’re interested in AI, search algorithms, or ML engineering, feel free to explore the repositories pinned below or reach out.
