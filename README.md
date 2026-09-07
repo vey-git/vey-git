@@ -1,104 +1,55 @@
-<div align="center">
-
 # Harvey Humphrey
 
-### BSc Computer Science (Artificial Intelligence)  
-Oxford Brookes University · Year 2
+**BSc (Hons) Artificial Intelligence student at Oxford Brookes University**
 
-[Email](mailto:harvey.humphrey@outlook.com) · [LinkedIn](https://linkedin.com/in/harveyhumphrey) · [GitHub](https://github.com/vey-git)
+Interested in **machine learning, algorithms, probabilistic AI, computer vision and computational optimisation**.
 
-</div>
+My work focuses on applying AI and computer science techniques to practical problems, with particular interests in intelligent systems, graph-based optimisation and machine learning.
 
----
+## Featured Projects
 
-## 🎓 Academic Focus
+### Neural Traffic Routing & Congestion Optimisation
+Independent dissertation project combining **graph algorithms, adaptive routing and neural-network-based congestion prediction** using real-world Oxford road-network data.
 
-Second-year Computer Science student specialising in **Artificial Intelligence**, with a strong emphasis on:
+**Python · Neural Networks · Dijkstra · A* · OSMnx · NetworkX**
 
-- **Machine learning & AI**: classical ML, supervised learning, and AI search
-- **Algorithms & theory**: data structures, algorithms, and foundations of computation
-- **Systems & software**: C/C++, Python, and applied software engineering
+### AI Pathfinding & Route Optimisation
+Implemented and benchmarked multiple search algorithms on a real-world Oxfordshire road network, including **A*, Bidirectional MM, BFS and DFS**.
 
-Current goal: build a **first-class academic record** and a **research-ready AI portfolio** suitable for postgraduate study at the University of Oxford.
+**Python · Graph Algorithms · Search · OSMnx · NetworkX**
 
----
+### Bayesian Network for COVID-19 ICU Prediction
+Developed a Bayesian network using a dataset of **5,644 patients**, comparing exact and approximate probabilistic inference methods.
 
-## 🧠 AI & Algorithms Projects
+**Python · Bayesian Networks · Probabilistic Inference · Machine Learning**
 
-### 🗺️ AI Pathfinding on Real-World Road Networks
-Year 2 AI coursework implementing and benchmarking multiple search algorithms on OpenStreetMap road networks.
+### Eye-Controlled Morse Code Typing
+Developed a real-time hands-free typing system using **MediaPipe facial landmarks, Eye Aspect Ratio blink detection and an RBF-kernel SVM**.
 
-- Implemented **A\***, **BFS**, **DFS**, **Bidirectional MM**, and **logic-constrained A\*** for route planning
-- Used **OSMnx** and **NetworkX** to model graphs with thousands of nodes and edges
-- Analysed performance across execution time, nodes explored, path quality, and memory usage
-- Implemented bidirectional MM based on peer-reviewed research to significantly reduce search space
+**Python · OpenCV · MediaPipe · SVM · Computer Vision**
 
-> Focus: search algorithms, heuristics, complexity analysis, and real-world optimisation.
+## Technical Interests
 
-**Repo:** `[https://github.com/vey-git/AI-Pathfinding-Route-Optimisation]`
+- Machine Learning
+- Artificial Intelligence
+- Algorithms & Data Structures
+- Probabilistic AI
+- Computer Vision
+- Graph Algorithms & Optimisation
+- Neural Networks
 
----
+## Education
 
-### 👁️ Computer Vision & Supervised Learning
-Independent project exploring computer vision and classical ML.
+**BSc (Hons) Artificial Intelligence**  
+Oxford Brookes University · 2024–Present
 
-- Built an image classification pipeline using **SVMs** on extracted features
-- Used **pandas** for data cleaning and preprocessing
-- Applied **scikit-learn** for model training, evaluation, and comparison
-- Documented experiments and results with a reproducible workflow
+**Year 2 average: 70.3%**
 
-> Focus: supervised learning, evaluation, and practical ML engineering.
+Selected results:
+- Foundations of Computation — **86%**
+- Software Development with C/C++ — **75%**
+- Data Structures & Algorithms — **73%**
 
-**Repo:** `[https://github.com/vey-git/eye_to_morse_code]`
+## Links
 
----
-
-## 🔬 Skills & Tools
-
-### Languages
-- **Python** (primary): data science, ML, scripting
-- **C / C++**: low-level programming and performance-aware code
-- **Java, SQL**: additional coursework and projects
-
-### AI / Data
-- **scikit-learn**, **pandas**, **NumPy**
-- Classical ML (SVMs, tree-based methods, search algorithms)
-- Foundations in **AI search**, **heuristics**, and **logic-based reasoning**
-
-### Software & Engineering
-- Git & GitHub (branching, pull requests, code review)
-- PyCharm, VS Code
-- Clean, documented code with an emphasis on readability and reproducibility
-
----
-
-## 📚 Current Modules & Interests
-
-**Current modules:**
-- Advanced AI  
-- Data Structures and Algorithms  
-- Foundations of Computation  
-- Enterprise Engineering  
-
-**Academic interests:**
-- Machine learning and representation learning
-- Search and optimisation in complex environments
-- Theoretical foundations of computation and algorithms
-- Applications of AI in navigation, robotics, and autonomous systems
-
----
-
-## 🎯 Goals
-
-Short term:
-- Maintain **first-class performance** across AI, algorithms, and theory-heavy modules
-- Expand AI portfolio with well-documented, reproducible projects
-- Gain research experience through independent work or internships
-
-Long term:
-- Pursue a **taught or research Master’s in Computer Science / AI at Oxford**
-- Contribute to research at the intersection of **machine learning, algorithms, and real-world decision-making**
-
----
-
-If you’re interested in AI, search algorithms, or ML engineering, feel free to explore the repositories pinned below or reach out.
+[Portfolio](https://vey-git.github.io/Portfolio/) · [LinkedIn](YOUR_LINKEDIN_URL)
