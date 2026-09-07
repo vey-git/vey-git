@@ -1,55 +1,56 @@
 # Harvey Humphrey
 
-**BSc (Hons) Artificial Intelligence student at Oxford Brookes University**
+### BSc (Hons) Artificial Intelligence · Oxford Brookes University
 
-Interested in **machine learning, algorithms, probabilistic AI, computer vision and computational optimisation**.
+**Machine Learning · Algorithms · Probabilistic AI · Computer Vision · Optimisation**
 
-My work focuses on applying AI and computer science techniques to practical problems, with particular interests in intelligent systems, graph-based optimisation and machine learning.
+I build AI and computational systems that combine machine learning with
+algorithmic approaches to real-world problems.
 
-## Featured Projects
+---
 
-### Neural Traffic Routing & Congestion Optimisation
-Independent dissertation project combining **graph algorithms, adaptive routing and neural-network-based congestion prediction** using real-world Oxford road-network data.
+## Selected Work
 
-**Python · Neural Networks · Dijkstra · A* · OSMnx · NetworkX**
+| Project | Focus |
+|---|---|
+| **Neural Traffic Routing** | Neural Networks · Graph Optimisation · A* · Dijkstra |
+| **AI Pathfinding** | Search Algorithms · Graph Theory · Route Optimisation |
+| **Bayesian ICU Prediction** | Bayesian Networks · Probabilistic Inference |
+| **Eye-Controlled Morse** | Computer Vision · SVM · MediaPipe |
 
-### AI Pathfinding & Route Optimisation
-Implemented and benchmarked multiple search algorithms on a real-world Oxfordshire road network, including **A*, Bidirectional MM, BFS and DFS**.
+→ **[Portfolio](https://vey-git.github.io/Portfolio/)**  
+→ **[LinkedIn](YOUR_LINKEDIN_URL)**
 
-**Python · Graph Algorithms · Search · OSMnx · NetworkX**
-
-### Bayesian Network for COVID-19 ICU Prediction
-Developed a Bayesian network using a dataset of **5,644 patients**, comparing exact and approximate probabilistic inference methods.
-
-**Python · Bayesian Networks · Probabilistic Inference · Machine Learning**
-
-### Eye-Controlled Morse Code Typing
-Developed a real-time hands-free typing system using **MediaPipe facial landmarks, Eye Aspect Ratio blink detection and an RBF-kernel SVM**.
-
-**Python · OpenCV · MediaPipe · SVM · Computer Vision**
+---
 
 ## Technical Interests
 
-- Machine Learning
-- Artificial Intelligence
-- Algorithms & Data Structures
-- Probabilistic AI
-- Computer Vision
-- Graph Algorithms & Optimisation
-- Neural Networks
+**AI & ML**  
+Neural Networks · Bayesian Networks · Probabilistic Inference · SVM
+
+**Algorithms**  
+Graph Algorithms · A* · Dijkstra · Search · Optimisation
+
+**Computer Vision**  
+OpenCV · MediaPipe · Facial Landmark Detection
+
+**Languages & Tools**  
+Python · C · C++ · Git · NetworkX · OSMnx · scikit-learn
+
+---
 
 ## Education
 
 **BSc (Hons) Artificial Intelligence**  
 Oxford Brookes University · 2024–Present
 
-**Year 2 average: 70.3%**
+**Year 2 average — 70.3%**
 
-Selected results:
-- Foundations of Computation — **86%**
-- Software Development with C/C++ — **75%**
-- Data Structures & Algorithms — **73%**
+86% Foundations of Computation · 75% C/C++ · 73% Data Structures & Algorithms
 
-## Links
+---
 
-[Portfolio](https://vey-git.github.io/Portfolio/) · [LinkedIn](YOUR_LINKEDIN_URL)
+### Currently
+
+Developing further interests in **machine learning, intelligent systems and
+advanced algorithms** through independent and academic projects.
